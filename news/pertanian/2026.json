@@ -1,0 +1,104 @@
+{
+  "news": [
+    {
+      "id": 1770794295182,
+      "title": "Indonesia Target Investasi Hilirisasi Rp3.800 Triliun untuk 15 Komoditas",
+      "category": "ekonomi",
+      "author": "BKPM",
+      "published_date": "2025-10-11T07:00:00.000Z",
+      "content": "Pemerintah menargetkan investasi lebih dari Rp3.800 triliun dalam lima tahun ke depan untuk mengembangkan industri hilirisasi 15 komoditas prioritas seperti nikel, tembaga, bauksit, dan baja guna mendukung transisi energi hijau dan rantai pasok global [citation:1].",
+      "image_url": "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?w=720",
+      "tags": ["hilirisasi", "investasi", "mineral", "CBAM"]
+    },
+    {
+      "id": 1770810617049,
+      "title": "Traktat Jakarta 2026: RI-Australia Tegaskan Kemitraan Keamanan",
+      "category": "politik",
+      "author": "Beritasatu",
+      "published_date": "2026-02-07T06:53:00.000Z",
+      "content": "Presiden Prabowo Subianto dan PM Anthony Albanese menandatangani Treaty of Jakarta 2026 di Istana Merdeka. Perjanjian ini disebut sebagai tonggak baru kemitraan strategis pertahanan di kawasan Indo-Pasifik, meskipun koalisi masyarakat sipil menyoroti absennya akuntabilitas HAM dalam traktat tersebut [citation:2].",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=720",
+      "tags": ["prabowo", "australia", "pertahanan", "diplomasi"]
+    },
+    {
+      "id": 1770810627049,
+      "title": "27.768 WNI Diselamatkan dari Krisis di Luar Negeri Sepanjang 2025",
+      "category": "nasional",
+      "author": "Sugiono",
+      "published_date": "2026-01-14T09:00:00.000Z",
+      "content": "Menteri Luar Negeri Sugiono mengungkapkan bahwa diplomasi Indonesia berhasil memulangkan 27.768 WNI dari berbagai situasi krisis sepanjang 2025, termasuk konflik bersenjata dan kejahatan transnasional seperti scam online serta judi online [citation:4].",
+      "image_url": "https://images.unsplash.com/photo-1580216643062-cf460548a66a?w=720",
+      "tags": ["WNI", "diplomasi", "perlindungan", "krisis"]
+    },
+    {
+      "id": 1770810638049,
+      "title": "Prabowo: Pers Adalah Pilar Demokrasi dan Hati Nurani Publik",
+      "category": "politik",
+      "author": "ANTARA",
+      "published_date": "2026-02-09T08:03:00.000Z",
+      "content": "Presiden Prabowo Subianto menyampaikan apresiasi pada Hari Pers Nasional 2026. Menko Muhaimin Iskandar membacakan pesan Presiden yang menegaskan komitmen pemerintah menjaga media massa sebagai bagian rantai ekonomi dan pilar demokrasi di tengah disrupsi teknologi [citation:5].",
+      "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=720",
+      "tags": ["pers", "HPN", "demokrasi", "prabowo"]
+    },
+    {
+      "id": 1770810649049,
+      "title": "RI Prioritaskan Investor Asing dengan Transfer Teknologi",
+      "category": "ekonomi",
+      "author": "Menkeu Purbaya",
+      "published_date": "2025-11-07T03:00:00.000Z",
+      "content": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan Indonesia akan memprioritaskan investor asing yang bersedia melakukan transfer teknologi atau menghasilkan dampak ekonomi signifikan. Reformasi iklim investasi dan saluran aduan langsung disiapkan untuk dorong pertumbuhan Q4-2025 [citation:6].",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=720",
+      "tags": ["investasi", "teknologi", "purbaya", "reformasi"]
+    },
+    {
+      "id": 1770810651049,
+      "title": "Danantara Groundbreaking 6 Proyek Hilirisasi Senilai Rp110 Triliun",
+      "category": "bisnis",
+      "author": "ANTARA",
+      "published_date": "2026-02-07T01:55:00.000Z",
+      "content": "Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) memulai peletakan batu pertama enam proyek hilirisasi fase I dengan total investasi mencapai 7 miliar dolar AS atau sekitar Rp110 triliun yang tersebar di 13 daerah [citation:7].",
+      "image_url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=720",
+      "tags": ["danantara", "hilirisasi", "investasi", "infrastruktur"]
+    },
+    {
+      "id": 1770810662049,
+      "title": "Tragedi Bondi: Penembakan Massal di Sydney, KBRI Imbau WNI Waspada",
+      "category": "internasional",
+      "author": "tvOneNews",
+      "published_date": "2025-12-14T18:25:00.000Z",
+      "content": "Kawasan wisata Pantai Bondi, Sydney, mencekam akibat insiden penembakan massal brutal yang menewaskan belasan orang. KJRI setempat meminta WNI untuk meningkatkan kewaspadaan di tengah situasi darurat yang melanda New South Wales [citation:8].",
+      "image_url": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=720",
+      "tags": ["australia", "sydney", "WNI", "keamanan"]
+    },
+    {
+      "id": 1770810673049,
+      "title": "El Nino Siap 'Terpanggang', BMKG Pastikan 2026 Tidak Sepanas 2024",
+      "category": "iklim",
+      "author": "CNN Indonesia",
+      "published_date": "2026-02-10T02:29:00.000Z",
+      "content": "NOAA dan BoM Australia memperingatkan potensi El Nino akhir 2026 yang berisiko dorong suhu rekor 2027. BMKG menegaskan Indonesia tidak akan terdampak El Nino tahun ini, dengan suhu rata-rata nasional 2026 berada di kisaran 25-29 derajat Celcius [citation:9].",
+      "image_url": "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?w=720",
+      "tags": ["el nino", "BMKG", "iklim", "suhu"]
+    },
+    {
+      "id": 1770810684049,
+      "title": "Manufaktur Jadi Motor Pertumbuhan Ekonomi RI 5,11% di 2025",
+      "category": "ekonomi",
+      "author": "Kadin",
+      "published_date": "2026-02-07T09:10:00.000Z",
+      "content": "Kadin melaporkan sektor manufaktur menjadi pendorong utama pertumbuhan ekonomi Indonesia yang mencapai 5,11 persen sepanjang 2025. PMI manufaktur Indonesia konsisten ekspansif dan diperkirakan mendekati 6 persen pada 2026 didukung investasi baru [citation:10].",
+      "image_url": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=720",
+      "tags": ["manufaktur", "ekonomi", "PMI", "Kadin"]
+    },
+    {
+      "id": 1770810695049,
+      "title": "Kebakaran Apartemen Hong Kong Tewaskan 159 Orang, KJRI Tangani PMI",
+      "category": "internasional",
+      "author": "tvOneNews",
+      "published_date": "2025-12-04T04:45:00.000Z",
+      "content": "Tragedi kebakaran di kompleks Wang Fuk Court, Hong Kong, menjadi salah satu bencana paling mematikan di kota itu. KJRI Hong Kong bergerak cepat menangani WNI dan Pekerja Migran Indonesia terdampak, dengan 11 orang ditetapkan sebagai tersangka [citation:8].",
+      "image_url": "https://images.unsplash.com/photo-1583499871880-2b3a675ab819?w=720",
+      "tags": ["hongkong", "PMI", "kebakaran", "darurat"]
+    }
+  ]
+}

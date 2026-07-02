@@ -1,0 +1,280 @@
+[
+  { "nama": "Kangkung", "kategori": "Sayuran", "masa_panen": "25 - 30 hari" },
+  { "nama": "Bayam", "kategori": "Sayuran", "masa_panen": "25 - 30 hari" },
+  { "nama": "Sawi Pakcoy", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Selada", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Daun Bawang", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Seledri", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Kemangi", "kategori": "Herbal", "masa_panen": "40 - 50 hari" },
+  { "nama": "Cabai Rawit", "kategori": "Sayuran/Herbal", "masa_panen": "80 - 90 hari" },
+  { "nama": "Cabai Merah Besar", "kategori": "Sayuran/Herbal", "masa_panen": "90 - 100 hari" },
+  { "nama": "Tomat", "kategori": "Buah/Sayur", "masa_panen": "75 - 90 hari" },
+  { "nama": "Terong Ungu", "kategori": "Sayuran", "masa_panen": "70 - 80 hari" },
+  { "nama": "Terong Lalap", "kategori": "Sayuran", "masa_panen": "70 - 80 hari" },
+  { "nama": "Timun", "kategori": "Buah/Sayur", "masa_panen": "40 - 50 hari" },
+  { "nama": "Kacang Panjang", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Buncis", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Pare", "kategori": "Sayuran", "masa_panen": "60 - 70 hari" },
+  { "nama": "Gambas (Oyong)", "kategori": "Sayuran", "masa_panen": "60 - 70 hari" },
+  { "nama": "Labu Siam", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Wortel", "kategori": "Sayuran", "masa_panen": "70 - 90 hari" },
+  { "nama": "Lobak", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+  { "nama": "Brokoli", "kategori": "Sayuran", "masa_panen": "70 - 90 hari" },
+  { "nama": "Kembang Kol", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+  { "nama": "Bit", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Ubi Jalar", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+  { "nama": "Singkong", "kategori": "Sayuran/Umbi", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kentang", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+  { "nama": "Jagung Manis", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+  { "nama": "Kucai", "kategori": "Herbal", "masa_panen": "60 - 80 hari" },
+  { "nama": "Ketumbar", "kategori": "Herbal", "masa_panen": "40 - 50 hari" },
+  { "nama": "Peterseli (Parsley)", "kategori": "Herbal", "masa_panen": "70 - 90 hari" },
+  { "nama": "Mint", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Oregano", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Basil (Basil Italia)", "kategori": "Herbal", "masa_panen": "45 - 60 hari" },
+  { "nama": "Dill (Adas)", "kategori": "Herbal", "masa_panen": "60 - 70 hari" },
+  { "nama": "Thyme", "kategori": "Herbal", "masa_panen": "90 - 120 hari" },
+  { "nama": "Stroberi", "kategori": "Buah", "masa_panen": "3 - 4 bulan" },
+  { "nama": "Melon", "kategori": "Buah", "masa_panen": "60 - 80 hari" },
+  { "nama": "Semangka", "kategori": "Buah", "masa_panen": "70 - 90 hari" },
+  { "nama": "Pepaya", "kategori": "Buah", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Leunca", "kategori": "Sayuran", "masa_panen": "60 - 70 hari" },
+  { "nama": "Kale", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+  { "nama": "Swiss Chard", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Okra", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Paprika", "kategori": "Sayuran", "masa_panen": "80 - 100 hari" },
+  { "nama": "Serai", "kategori": "Herbal", "masa_panen": "6 - 8 bulan" },
+  { "nama": "Jahe", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kunyit", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Lengkuas", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kencur", "kategori": "Herbal", "masa_panen": "6 - 8 bulan" },
+  { "nama": "Bawang Merah", "kategori": "Sayuran", "masa_panen": "60 - 70 hari" },
+
+  { "nama": "Bawang Putih", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Bawang Bombay", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Bawang Daun", "kategori": "Sayuran", "masa_panen": "80 - 100 hari" },
+  { "nama": "Selada Romaine", "kategori": "Sayuran", "masa_panen": "30 - 50 hari" },
+  { "nama": "Selada Keriting", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Arugula (Rukola)", "kategori": "Sayuran", "masa_panen": "25 - 35 hari" },
+  { "nama": "Sawi Hijau", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Sawi Bok Choy", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Sawi Manis", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Sawi Asin", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Mustard (Sawi Pagoda)", "kategori": "Sayuran", "masa_panen": "30 - 40 hari" },
+  { "nama": "Kailan", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+  { "nama": "Kol", "kategori": "Sayuran", "masa_panen": "70 - 100 hari" },
+  { "nama": "Kubis Putih", "kategori": "Sayuran", "masa_panen": "75 - 105 hari" },
+  { "nama": "Kubis Merah", "kategori": "Sayuran", "masa_panen": "75 - 105 hari" },
+  { "nama": "Kubis Brusel", "kategori": "Sayuran", "masa_panen": "90 - 110 hari" },
+  { "nama": "Kangkung Darat", "kategori": "Sayuran", "masa_panen": "20 - 30 hari" },
+  { "nama": "Genjer", "kategori": "Sayuran", "masa_panen": "25 - 35 hari" },
+  { "nama": "Bayam Merah", "kategori": "Sayuran", "masa_panen": "25 - 30 hari" },
+  { "nama": "Bayam Jepang", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Daun Kelor", "kategori": "Herbal", "masa_panen": "45 - 60 hari" },
+  { "nama": "Daun Singkong", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Ubi Kayu (Daun)", "kategori": "Sayuran/Umbi", "masa_panen": "30 - 45 hari" },
+
+  { "nama": "Jagung Biasa", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Bambu Kuning", "kategori": "Herbal", "masa_panen": "6 - 12 bulan" },
+  { "nama": "Talas", "kategori": "Sayuran/Umbi", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Gadung", "kategori": "Sayuran/Umbi", "masa_panen": "10 - 12 bulan" },
+  { "nama": "Pakcoy Merah", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Kembang Tahu", "kategori": "Sayuran", "masa_panen": "30 - 60 hari" },
+
+  { "nama": "Terong Hijau", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+  { "nama": "Terong Putih", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+  { "nama": "Terong Cepat", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Sung Yat (Tomat Kecil)", "kategori": "Buah/Sayur", "masa_panen": "65 - 80 hari" },
+  { "nama": "Cabai Habanero", "kategori": "Sayuran/Herbal", "masa_panen": "90 - 110 hari" },
+  { "nama": "Cabai Besar", "kategori": "Sayuran/Herbal", "masa_panen": "85 - 100 hari" },
+  { "nama": "Cabai Gendot", "kategori": "Sayuran/Herbal", "masa_panen": "85 - 100 hari" },
+  { "nama": "Cabai Keriting", "kategori": "Sayuran/Herbal", "masa_panen": "80 - 95 hari" },
+  { "nama": "Cabai Kriting Rawit", "kategori": "Sayuran/Herbal", "masa_panen": "75 - 95 hari" },
+  { "nama": "Cabai Poblano", "kategori": "Sayuran/Herbal", "masa_panen": "80 - 100 hari" },
+
+  { "nama": "Bawang Prei (Leek)", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Sawi Urat", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Sawi Lembang", "kategori": "Sayuran", "masa_panen": "35 - 50 hari" },
+  { "nama": "Brokoli Rabe", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+  { "nama": "Bawang Merah (Varietas Lokal)", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Bawang Putih (Varietas Lokal)", "kategori": "Sayuran", "masa_panen": "90 - 135 hari" },
+
+  { "nama": "Sparagus (Asparagus)", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Lili (Allium) liar", "kategori": "Sayuran", "masa_panen": "60 - 90 hari" },
+
+  { "nama": "Kangkung Air", "kategori": "Sayuran", "masa_panen": "25 - 35 hari" },
+  { "nama": "Watercress (Krees)", "kategori": "Sayuran", "masa_panen": "20 - 30 hari" },
+
+  { "nama": "Kacang Kapri", "kategori": "Sayuran", "masa_panen": "55 - 70 hari" },
+  { "nama": "Kacang Bendi", "kategori": "Sayuran", "masa_panen": "50 - 65 hari" },
+  { "nama": "Kacang Merah", "kategori": "Sayuran", "masa_panen": "70 - 90 hari" },
+  { "nama": "Kacang Hijau", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Kacang Tanah", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Kacang Panjang Merah", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Kacang Panjang Putih", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Buncis Hijau", "kategori": "Sayuran", "masa_panen": "50 - 60 hari" },
+  { "nama": "Buncis Ungu", "kategori": "Sayuran", "masa_panen": "50 - 65 hari" },
+
+  { "nama": "Okra Mini", "kategori": "Sayuran", "masa_panen": "45 - 55 hari" },
+  { "nama": "Okra Panjang", "kategori": "Sayuran", "masa_panen": "55 - 65 hari" },
+  { "nama": "Labu Putih", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Labu Kuning", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Labu Manis", "kategori": "Sayuran", "masa_panen": "100 - 130 hari" },
+
+  { "nama": "Mentimun Jepang", "kategori": "Buah/Sayur", "masa_panen": "45 - 55 hari" },
+  { "nama": "Mentimun Suri", "kategori": "Buah/Sayur", "masa_panen": "50 - 60 hari" },
+
+  { "nama": "Labuh (Zucchini)", "kategori": "Sayuran", "masa_panen": "40 - 55 hari" },
+  { "nama": "Terong Italia", "kategori": "Sayuran", "masa_panen": "75 - 90 hari" },
+
+  { "nama": "Bawang Bombai (Besar)", "kategori": "Sayuran", "masa_panen": "90 - 130 hari" },
+
+  { "nama": "Wijen (wijen daun)", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Ruku-ruku (Daun ruku)", "kategori": "Herbal", "masa_panen": "40 - 60 hari" },
+
+  { "nama": "Sereh Wangi (Serai)", "kategori": "Herbal", "masa_panen": "6 - 8 bulan" },
+  { "nama": "Daun Pandan", "kategori": "Herbal", "masa_panen": "6 - 12 bulan" },
+
+  { "nama": "Kayu Manis (pohon kecil)", "kategori": "Herbal", "masa_panen": "24 - 36 bulan" },
+  { "nama": "Cengkeh (pohon)", "kategori": "Herbal", "masa_panen": "36 - 60 bulan" },
+
+  { "nama": "Pala (pohon)", "kategori": "Herbal", "masa_panen": "60 - 120 bulan" },
+  { "nama": "Kopi (pohon)", "kategori": "Herbal", "masa_panen": "24 - 48 bulan" },
+
+  { "nama": "Jahe Merah", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Jahe Emprit", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kunyit Putih", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kunyit Kuning", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+
+  { "nama": "Lengkuas Putih", "kategori": "Herbal", "masa_panen": "8 - 10 bulan" },
+  { "nama": "Kencur Putih", "kategori": "Herbal", "masa_panen": "6 - 8 bulan" },
+
+  { "nama": "Daun Andong", "kategori": "Herbal", "masa_panen": "6 - 12 bulan" },
+
+  { "nama": "Stroberi Varietas Lokal", "kategori": "Buah", "masa_panen": "3 - 4 bulan" },
+  { "nama": "Blueberry", "kategori": "Buah", "masa_panen": "4 - 6 bulan" },
+  { "nama": "Raspberry", "kategori": "Buah", "masa_panen": "3 - 5 bulan" },
+  { "nama": "Beri Hitam", "kategori": "Buah", "masa_panen": "3 - 5 bulan" },
+
+  { "nama": "Belimbing", "kategori": "Buah", "masa_panen": "6 - 10 bulan" },
+  { "nama": "Mangga", "kategori": "Buah", "masa_panen": "8 - 12 bulan" },
+  { "nama": "Alpukat", "kategori": "Buah", "masa_panen": "12 - 18 bulan" },
+  { "nama": "Jambu Biji", "kategori": "Buah", "masa_panen": "5 - 8 bulan" },
+  { "nama": "Jeruk", "kategori": "Buah", "masa_panen": "9 - 12 bulan" },
+  { "nama": "Nanas", "kategori": "Buah", "masa_panen": "12 - 18 bulan" },
+
+  { "nama": "Semangka Tanpa Biji", "kategori": "Buah", "masa_panen": "70 - 90 hari" },
+  { "nama": "Melon Varietas Hijau", "kategori": "Buah", "masa_panen": "60 - 80 hari" },
+  { "nama": "Melon Varietas Oranye", "kategori": "Buah", "masa_panen": "65 - 85 hari" },
+
+  { "nama": "Tomat Ceri", "kategori": "Buah/Sayur", "masa_panen": "60 - 75 hari" },
+  { "nama": "Tomat Pasta", "kategori": "Buah/Sayur", "masa_panen": "80 - 100 hari" },
+
+  { "nama": "Terong Kecil", "kategori": "Sayuran", "masa_panen": "60 - 75 hari" },
+  { "nama": "Terong Panjang", "kategori": "Sayuran", "masa_panen": "75 - 95 hari" },
+
+  { "nama": "Paprika Merah", "kategori": "Sayuran", "masa_panen": "80 - 110 hari" },
+  { "nama": "Paprika Hijau", "kategori": "Sayuran", "masa_panen": "75 - 100 hari" },
+
+  { "nama": "Wortel Chantenay", "kategori": "Sayuran", "masa_panen": "70 - 90 hari" },
+  { "nama": "Wortel Imperator", "kategori": "Sayuran", "masa_panen": "75 - 95 hari" },
+
+  { "nama": "Lobak Merah", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Lobak Putih", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+  { "nama": "Lobak Panjang", "kategori": "Sayuran", "masa_panen": "55 - 70 hari" },
+
+  { "nama": "Bit Merah", "kategori": "Sayuran", "masa_panen": "55 - 75 hari" },
+  { "nama": "Bit Emas", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+
+  { "nama": "Kembang Kol Putih", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+  { "nama": "Kembang Kol Ungu", "kategori": "Sayuran", "masa_panen": "65 - 85 hari" },
+
+  { "nama": "Brokoli Italia", "kategori": "Sayuran", "masa_panen": "75 - 95 hari" },
+  { "nama": "Brokoli Calabrese", "kategori": "Sayuran", "masa_panen": "70 - 90 hari" },
+
+  { "nama": "Bayam Hijau", "kategori": "Sayuran", "masa_panen": "25 - 30 hari" },
+  { "nama": "Bayam Bangkok", "kategori": "Sayuran", "masa_panen": "30 - 40 hari" },
+
+  { "nama": "Kucai Daun", "kategori": "Herbal", "masa_panen": "50 - 70 hari" },
+  { "nama": "Kucai Putih", "kategori": "Herbal", "masa_panen": "60 - 80 hari" },
+
+  { "nama": "Daun Ketumbar (Ketumbar)", "kategori": "Herbal", "masa_panen": "35 - 50 hari" },
+  { "nama": "Daun Basil Manis", "kategori": "Herbal", "masa_panen": "45 - 60 hari" },
+  { "nama": "Daun Basil Thai", "kategori": "Herbal", "masa_panen": "45 - 65 hari" },
+
+  { "nama": "Daun Dill", "kategori": "Herbal", "masa_panen": "50 - 70 hari" },
+  { "nama": "Daun Oregano", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Daun Thyme", "kategori": "Herbal", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Mint Spearmint", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+  { "nama": "Mint Peppermint", "kategori": "Herbal", "masa_panen": "60 - 90 hari" },
+
+  { "nama": "Seledri Daun", "kategori": "Herbal", "masa_panen": "70 - 90 hari" },
+  { "nama": "Peterseli Daun", "kategori": "Herbal", "masa_panen": "70 - 90 hari" },
+
+  { "nama": "Kangkung Kalimantan", "kategori": "Sayuran", "masa_panen": "25 - 35 hari" },
+  { "nama": "Kangkung Mini", "kategori": "Sayuran", "masa_panen": "20 - 30 hari" },
+
+  { "nama": "Okra Merah", "kategori": "Sayuran", "masa_panen": "50 - 65 hari" },
+  { "nama": "Okra Hijau", "kategori": "Sayuran", "masa_panen": "50 - 65 hari" },
+
+  { "nama": "Bunga Kol", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+  { "nama": "Kembang Kol Mini", "kategori": "Sayuran", "masa_panen": "55 - 70 hari" },
+
+  { "nama": "Ubi Cilembu", "kategori": "Sayuran/Umbi", "masa_panen": "100 - 130 hari" },
+  { "nama": "Ubi Putih", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Kentang Granola", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 110 hari" },
+  { "nama": "Kentang Atlantic", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Ubi Jalar Ungu", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Singkong Pahit", "kategori": "Sayuran/Umbi", "masa_panen": "10 - 12 bulan" },
+  { "nama": "Singkong Manis", "kategori": "Sayuran/Umbi", "masa_panen": "8 - 10 bulan" },
+
+  { "nama": "Kedelai", "kategori": "Sayuran", "masa_panen": "80 - 100 hari" },
+  { "nama": "Edamame", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+
+  { "nama": "Bawang Daun (Varietas)", "kategori": "Sayuran", "masa_panen": "80 - 100 hari" },
+  { "nama": "Kucai Bawang", "kategori": "Herbal", "masa_panen": "55 - 75 hari" },
+
+  { "nama": "Sawi Pagoda Merah", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Sawi Pagoda Hijau", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+  { "nama": "Kailan Hijau", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+  { "nama": "Kailan Ungu", "kategori": "Sayuran", "masa_panen": "45 - 60 hari" },
+
+  { "nama": "Labu Madu", "kategori": "Sayuran", "masa_panen": "90 - 120 hari" },
+  { "nama": "Labu Siam Mini", "kategori": "Sayuran", "masa_panen": "80 - 100 hari" },
+
+  { "nama": "Mentimun Lokal", "kategori": "Buah/Sayur", "masa_panen": "40 - 50 hari" },
+  { "nama": "Timun Jepang", "kategori": "Buah/Sayur", "masa_panen": "45 - 55 hari" },
+
+  { "nama": "Bawang Merah Kecil", "kategori": "Sayuran", "masa_panen": "60 - 70 hari" },
+  { "nama": "Bawang Merah Besar", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+
+  { "nama": "Paprika Kuning", "kategori": "Sayuran", "masa_panen": "80 - 110 hari" },
+  { "nama": "Paprika Orange", "kategori": "Sayuran", "masa_panen": "80 - 110 hari" },
+
+  { "nama": "Jagung Manis Putih", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+  { "nama": "Jagung Manis Kuning", "kategori": "Sayuran", "masa_panen": "70 - 85 hari" },
+
+  { "nama": "Kentang Kentang Hitam", "kategori": "Sayuran/Umbi", "masa_panen": "90 - 120 hari" },
+
+  { "nama": "Kacang Gude", "kategori": "Sayuran", "masa_panen": "70 - 95 hari" },
+
+  { "nama": "Daun Bawang Jepang", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+  { "nama": "Wortel Bulat", "kategori": "Sayuran", "masa_panen": "60 - 80 hari" },
+
+  { "nama": "Sawi Kelapa", "kategori": "Sayuran", "masa_panen": "25 - 40 hari" },
+  { "nama": "Sawi Asam", "kategori": "Sayuran", "masa_panen": "30 - 45 hari" },
+
+  { "nama": "Kacang Panjang Pendek", "kategori": "Sayuran", "masa_panen": "45 - 55 hari" },
+  { "nama": "Kacang Panjang Panjang", "kategori": "Sayuran", "masa_panen": "50 - 65 hari" },
+
+  { "nama": "Terong Belanda", "kategori": "Sayuran", "masa_panen": "90 - 110 hari" },
+  { "nama": "Tomat Kumato", "kategori": "Buah/Sayur", "masa_panen": "80 - 100 hari" },
+
+  { "nama": "Stroberi Varietas Albion", "kategori": "Buah", "masa_panen": "3 - 4 bulan" },
+  { "nama": "Stroberi Varietas Monterey", "kategori": "Buah", "masa_panen": "3 - 4 bulan" }
+]
